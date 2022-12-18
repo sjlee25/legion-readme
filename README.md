@@ -2,7 +2,7 @@
 
 "*Legion: Tailoring Grouped Neural Execution Considering Heterogeneity on Multiple Edge Devices (ICCD'21)*" 논문의 기반 연구 내용을 요약한 레포지토리입니다.
 
-[Choi, K., Lee, S., Kang, B. W., & Park, Y. (2021, October). Legion: Tailoring Grouped Neural Execution Considering Heterogeneity on Multiple Edge Devices. In *2021 IEEE 39th International Conference on Computer Design (ICCD)* (pp. 383-390). IEEE.](https://ieeexplore.ieee.org/abstract/document/9643757/)
+[(Choi, K., Lee, S., Kang, B. W., & Park, Y. (2021, October). Legion: Tailoring Grouped Neural Execution Considering Heterogeneity on Multiple Edge Devices. In *2021 IEEE 39th International Conference on Computer Design (ICCD)* (pp. 383-390). IEEE.)](https://ieeexplore.ieee.org/abstract/document/9643757/)
 
 <br/>
 
