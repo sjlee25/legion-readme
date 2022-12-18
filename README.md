@@ -41,7 +41,7 @@
 
 <br/>
 
-<p align="center"><img src="./images/estimation.png" alt="실험 결과" style="width: 480px;" /></p>
+<p align="center"><img src="./images/estimation.png" alt="비용 예측 예시" style="width: 480px;" /></p>
 
 - 특정 병합 레이어의 예측 비용은 다음 세 값의 합으로 표현됩니다.
   - 증가한 입력 데이터 비율만큼 기존 전송 비용에 알파 값을 곱합니다.
